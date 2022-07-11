@@ -1,6 +1,6 @@
 console.log('Vue OK', Vue);
 
-vue.config.devtools = true;
+
 
 const root = new Vue ({
     el: '#root',
@@ -9,4 +9,4 @@ const root = new Vue ({
       lastName: 'Correale',
       frameWork: 'Vue Js'
     }
-})
+});
